@@ -56,6 +56,7 @@ During normal use, the user blows into the device after pressing a button. While
 ![Image](https://github.com/user-attachments/assets/7ac551fa-5907-422c-b7b5-275a3037ed79)
 
 ![Image](https://github.com/user-attachments/assets/7ba2b4c4-64ce-486c-9811-8a954e562218)
+## Prototype 3D model.
 
 ![Image](https://github.com/user-attachments/assets/70ac423a-04b4-4a4e-98d3-cd8d95f93d65)
 
