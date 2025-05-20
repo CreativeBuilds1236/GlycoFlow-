@@ -63,10 +63,9 @@ During normal use, the user blows into the device after pressing a button. While
 ![Image](https://github.com/user-attachments/assets/63d26681-e3f9-4f48-a3fd-c56b0c87fe26)
 ---
 ## 📈 Future Ideas
-- Wi-Fi logging to mobile app
+- Bluetooth logging to mobile app
 - Use a machine learning model to improve accuracy
 - Upgrade to acetone-specific sensors
-- Add 3D-printed housing
 ---
 ## Final concept📃
 ![Image](https://github.com/user-attachments/assets/cd53f498-e3e6-4253-aa40-fd2f7edba45a)
